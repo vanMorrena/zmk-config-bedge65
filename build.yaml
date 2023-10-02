@@ -21,3 +21,6 @@ include:
 include:
   - board: nice_nano_v2
     shield: chalice
+include:
+  - board: nice_nano_v2
+    shield: bedge65
