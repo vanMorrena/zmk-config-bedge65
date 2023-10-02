@@ -74,13 +74,16 @@
         { "label":"Up","row": 3, "col": 14, "x": 16.74, "y": 3 },
 
         { "label":"Ctrl","row": 4, "col":  1, "x":  1, "y": 4 ,"w":1.25},
-        { "label":"Alt","row": 4, "col":  3, "x":  3, "y": 4 ,"w":1.25},
-        { "label":"Space","row": 4, "col":  4, "x":  4.25, "y": 4 ,"w":2},
-        { "label":"Fn","row": 4, "col":  6, "x":  6.25, "y": 4 ,"w":1.25},
+        # { "label":"Alt","row": 4, "col":  3, "x":  3, "y": 4 ,"w":1.25},
+        { "label":"Alt","row": 4, "col":  3, "x":  3, "y": 4 },
+        # { "label":"Space","row": 4, "col":  4, "x":  4.25, "y": 4 ,"w":2},
+        { "label":"Space","row": 4, "col":  4, "x":  4.25, "y": 4 ,"w":7},
+        # { "label":"Fn","row": 4, "col":  6, "x":  6.25, "y": 4 ,"w":1.25},
   
-        { "label":"Space","row": 4, "col":  8, "x":  9, "y": 4,"w":2 },
-        { "label":"Windows","row": 4, "col": 10, "x": 11, "y": 4 ,"w":1.25 },
-        { "label":"F5","row": 4, "col": 11, "x": 14.5, "y": 4 },
+        # { "label":"Space","row": 4, "col":  8, "x":  9, "y": 4,"w":2 },
+        # { "label":"Windows","row": 4, "col": 10, "x": 11, "y": 4 ,"w":1.25 },
+        { "label":"Windows","row": 4, "col": 10, "x": 11, "y": 4 ,"w":1.5 },
+        # { "label":"F5","row": 4, "col": 11, "x": 14.5, "y": 4 },
         { "label":"Left","row": 4, "col": 12, "x": 15.74, "y": 4 },
         { "label":"Down","row": 4, "col": 13, "x": 16.74, "y": 4 },
         { "label":"Right","row": 4, "col": 14, "x": 17.74, "y": 4 }
